@@ -1,2 +1,2 @@
 #!/bin/bash
-sudo -user -other user
+sudo pwd
