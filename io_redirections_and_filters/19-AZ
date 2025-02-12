@@ -1,2 +1,2 @@
 #!/bin/bash
-tr OPTION... A,C [Z,E] 
+echo 'linuxize' | tr 'A,C' 'Z,E' 
