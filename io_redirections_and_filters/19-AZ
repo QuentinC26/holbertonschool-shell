@@ -1,2 +1,2 @@
 #!/bin/bash
-tr -s a c [:alpha:] z e 
+echo $word | tr Ac Ze 
