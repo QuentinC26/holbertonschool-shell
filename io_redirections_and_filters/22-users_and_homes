@@ -1,2 +1,2 @@
 #!/bin/bash
-cat /ect/passwd | cut -d
+cat /ect/passwd | cut -d 1
