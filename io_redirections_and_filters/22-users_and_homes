@@ -1,2 +1,2 @@
 #!/bin/bash
-sort -d | find /home/* type -d /etc/passwd | uniq | less
+cat /ect/passwd | cut -d
