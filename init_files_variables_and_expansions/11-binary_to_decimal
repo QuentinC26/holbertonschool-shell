@@ -1,2 +1,2 @@
 #!/bin/bash
-echo "BINARY=2;42" | bc
+echo $(( "$BINARY 02=10"))
