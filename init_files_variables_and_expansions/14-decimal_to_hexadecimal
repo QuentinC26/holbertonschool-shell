@@ -1,2 +1,2 @@
 #!/bin/bash
-printf "%.10ix/n" $DECIMAL
+printf "%.10x/n" $DECIMAL
