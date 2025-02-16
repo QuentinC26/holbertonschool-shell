@@ -1,2 +1,2 @@
 #!/bin/bash
-export NUM=2.31 | printf ''%d'' $NUM
+printf "%2f" = $NUM
